@@ -27,4 +27,4 @@ This repository also contains my PowerPoint for an introduction to quantum progr
 
 Anyway, I'm very happy to answer any questions or discuss some possible further improvements. :) 
 
-Jinlong(Darius) Huang
+Jin-Long
